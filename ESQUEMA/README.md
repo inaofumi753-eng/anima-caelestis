@@ -45,6 +45,14 @@ Relato + Vestigio + Recuerdo Vivo.
 ## 7. Recursos
 HP / Energy / Soul.
 
+## Estructura base del turno
+El combate es por turnos con dos fases por turno:
+- **Técnica:** defensa, buff y preparación.
+- **Ataque:** ofensiva y resolución del ataque.
+
+## Grow y sacrificio de fase
+Grow consume Soul y ocupa/sacrifica una de las dos fases del turno. El jugador debe decidir entre evolucionar o utilizar la acción normal de esa fase. El coste exacto y posibles excepciones se balancearán después.
+
 ## 8. Combate
 Pendiente de formalización detallada:
 - perspectiva/cámara;
