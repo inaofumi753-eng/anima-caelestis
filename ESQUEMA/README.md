@@ -29,6 +29,18 @@ La presentación ideal combina:
 
 La perspectiva puede mostrar al personaje del jugador desde la espalda/tres cuartos para dar sensación de “yo estoy ahí”, sin exigir first-person literal.
 
+
+## 5. Ancestro Principal elegido por el jugador
+Hércules es el personaje prototipo del desarrollo, no la protagonista obligatoria de todos los jugadores.
+
+El juego final debe permitir que el jugador tenga su propio Ancestro Principal/waifu. Ejemplos de futuros personajes incluyen Hércules, Leonardo da Vinci, Medusa, Rey Arturo y muchas otras reinterpretaciones femeninas de figuras históricas, legendarias y míticas.
+
+**Ancestro Principal** describe el puesto central que ocupa una waifu en el equipo/duelo, no una única protagonista global.
+
+Los sistemas de combate, cartas, Ecos, Grow, Peak y Divine Soul deben estar diseñados para reutilizarse entre diferentes Ancestros Principales.
+
+Hércules es el primer banco de pruebas de esos sistemas.
+
 ## 5. Jugador
 Invocador → vínculo con Ancestros → sincronización → participación directa en temporadas posteriores.
 
