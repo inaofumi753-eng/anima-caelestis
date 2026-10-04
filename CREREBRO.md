@@ -206,5 +206,8 @@ El objetivo visual es una **batalla anime de cartas cinematográfica**, no un id
 
 La referencia emocional es el espectáculo de un TCG anime moderno, no copiar WIXOSS.
 
+### Escena emblemática de manifestación
+La manifestación ideal debe tener una secuencia memorable: el Invocador mira su teléfono, siente el Soul en el pecho, una carta espiritual emerge de su pecho, el Invocador la toma y la lanza; la carta viaja al campo y se transforma en Hércules. Esta escena debe comunicar que el Ancestro no es una unidad seleccionada de un menú: es un vínculo espiritual que el jugador está poniendo en combate.
+
 ## Regla anti-desvío
 Si una propuesta contradice la identidad waifu, la fantasía de duelo cercano, el sistema de DPS principal, la separación HP/Energy/Soul, Grow/Peak o la estructura del lore, el bot debe detenerse y pedir revisión en lugar de inventar una solución incompatible.
