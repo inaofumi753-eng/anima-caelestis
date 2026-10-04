@@ -16,6 +16,15 @@ El juego es, ante todo, un juego de **WAIFUS**:
 
 La mitología y el horror cósmico son el contexto. **No deben borrar la identidad waifu del juego.**
 
+
+### Gesto de activación de la carta espiritual
+La carta espiritual no tiene que usarse siempre mediante un único movimiento. La puesta en combate puede elegir entre dos gestos cinematográficos según la situación:
+
+- **Lanzamiento:** el Invocador forma la carta desde su pecho, la toma y la lanza hacia Hércules/campo; la luz de la carta viaja con ella y envuelve a Hércules al transformarse en la Ancestro.
+- **Enfoque sobre sí mismo:** el Invocador lleva la carta delante de su propio cuerpo/pecho y la enfoca hacia sí mismo; la luz espiritual atraviesa o rodea al Invocador y se extiende hasta Hércules, estableciendo un vínculo visual directo entre ambos.
+
+Ambos gestos representan la misma idea: el Soul del Invocador es el puente que permite manifestar y potenciar a su Ancestro. No son dos mecánicas necesariamente distintas; son dos presentaciones/animaciones posibles del mismo acto espiritual.
+
 ### Fantasía de combate — decisión maestra
 La referencia principal NO es un RPG idle con unidades pequeñas vistas desde lejos.
 
