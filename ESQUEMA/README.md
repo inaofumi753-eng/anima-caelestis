@@ -146,3 +146,21 @@ Hércules gyaru → duelo cercano → cartas → HP/Energy/Soul → Grow → Hé
 El prototipo debe poder demostrar la fantasía de “mi waifu está peleando contra otra waifu” antes de expandirse.
 
 Todo nuevo sistema debe poder ubicarse dentro de este esquema.
+
+
+## 18. Modelo de progresión y modos
+La primera versión del juego debe priorizar una campaña PvE estructurada/lineal, colección y construcción de equipos/mazos. El jugador progresa por la historia, desbloquea Ancestros y Vidas Pasadas/Ecos, desarrolla sus Grow/Peak y construye diferentes configuraciones de cartas.
+
+El **JcJ/PvP** se añadirá después de estabilizar el combate PvE. No debe ser un sistema separado: utilizará el mismo núcleo de reglas y cartas, con reglas de balance y restricciones específicas para competitivo.
+
+### Principio de desarrollo
+**PvE primero → colección/deckbuilding → balance → PvP después.**
+
+Aunque el PvP se implemente más tarde, el código del combate debe diseñarse desde el comienzo para que sus reglas fundamentales puedan reproducirse de forma determinista y separar:
+- lógica de combate;
+- presentación/animaciones;
+- datos de cartas/personajes;
+- reglas específicas de PvE;
+- reglas específicas de PvP.
+
+El gacha tampoco es requisito del prototipo inicial. Puede introducirse cuando el núcleo de combate, colección y progresión ya sea satisfactorio.
