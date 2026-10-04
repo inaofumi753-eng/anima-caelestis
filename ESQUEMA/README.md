@@ -164,3 +164,19 @@ Aunque el PvP se implemente más tarde, el código del combate debe diseñarse d
 - reglas específicas de PvP.
 
 El gacha tampoco es requisito del prototipo inicial. Puede introducirse cuando el núcleo de combate, colección y progresión ya sea satisfactorio.
+
+
+## 18. Historia interactiva y vínculos
+La campaña narrativa utiliza formato de visual novel/aventura interactiva.
+
+El jugador elige actividades y lugares (cafetería, plaza, paseo por la ciudad, sitios de Relatos/Vestigios, encuentros, etc.) y esas decisiones modifican variables y flags.
+
+El sistema de vínculo contempla:
+- afinidad;
+- elecciones y consecuencias;
+- recuerdos;
+- conversaciones y escenas desbloqueables;
+- rutas narrativas;
+- finales diferentes.
+
+Los Ancestros principales pueden tener rutas románticas/afectivas cuando corresponda. Las rutas se deciden por combinación de afinidad y elecciones importantes, no solamente por un contador. El vínculo no debe ser obligatorio para disfrutar el combate y no debe convertirse en una mecánica pay-to-win.
