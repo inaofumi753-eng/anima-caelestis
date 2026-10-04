@@ -97,6 +97,19 @@ Concepto inicial:
 - Su identidad de combate siempre es DPS.
 - Nunca debe convertirse en healer, tanque puro o buffer por una evolución.
 
+
+### Kit innato de Hércules — diseño provisional
+Hércules debe tener acciones propias que no dependan exclusivamente de cartas. La propuesta inicial es un kit corto y reconocible:
+
+1. **Golpe Normal:** ataque básico, de bajo coste o sin coste significativo, usado para conservar presión y no depender de la mano.
+2. **Golpe Especial:** ataque más potente que consume más Energy y tiene una propiedad adicional que pueda evolucionar con Grow.
+3. **Habilidad Propia / Ataque Icónico:** una técnica característica de Hércules, inicialmente candidata a llamarse **Golpe de Coloso**, **Ataque Poderoso** o **Aniquilador de Leones**. El nombre definitivo se elegirá después de probar la fantasía y el lore.
+4. **Grito de Guerra:** buff ofensivo propio de Hércules. Potencia su capacidad de ataque durante un periodo/condición determinada y refuerza su identidad de DPS.
+
+Las cartas de ataque y acción complementan este kit. Las cartas no deben reemplazar la identidad jugable de Hércules: deben permitir extender, modificar, preparar o potenciar sus acciones propias.
+
+Grow debe poder modificar este kit: una habilidad puede ganar una nueva propiedad, cambiar su animación, mejorar su efecto o transformarse en una versión superior sin perder la identidad original.
+
 ### Peaks de Hércules
 1. Diosa de la Guerra — DPS ofensiva, burst, crítico y ruptura de defensa.
 2. Guardiana Celestial — DPS resistente/contraataque/protección activa sin convertirse en tanque puro.
