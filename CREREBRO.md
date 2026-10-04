@@ -92,10 +92,25 @@ La inspiración de WIXOSS se divide conceptualmente en dos grandes etapas de Ani
 
 **Parte 1 — El duelo de cartas:** el jugador es un Invocador que establece un vínculo con su Ancestro/waifu principal, dirige un duelo mediante cartas, utiliza Vidas Pasadas/Ecos de apoyo y hace crecer a su waifu mediante Grow hasta alcanzar rutas Peak. El objetivo es conseguir la sensación de “estoy viendo a mi propia waifu librar un duelo de anime y yo estoy dirigiendo sus acciones”.
 
-**Parte 2 — Union:** después de dominar el vínculo a distancia, el jugador puede entrar en la relación de combate de forma directa mediante las formas Humana, Mítica y Sincronizada. La Parte 2 debe sentirse como una evolución natural del concepto de la Parte 1, no como un juego distinto.
+**Parte 2 — Union:** la fantasía está inspirada en el desenlace de la segunda temporada de WIXOSS, pero en Anima Caelestis **Union existe desde una etapa temprana del juego** como parte de la progresión jugable, no como un sistema reservado para el final. La Parte 2 amplía la relación entre Invocador y Ancestros sin reemplazar el duelo de cartas.
 
-Estas dos partes definen una progresión de fantasía:
-**“Dirijo a mi waifu” → “me sincronizo con mi waifu”.**
+La Union temprana permite que el jugador convoque y utilice **otras Vidas Pasadas/Ecos de menor peso histórico o narrativo**: obreras, trabajadoras, campesinas, artesanas, comerciantes, cuidadoras y otras personas comunes cuyas historias y recuerdos todavía poseen suficiente fuerza para sostener una manifestación. Todas estas Vidas Pasadas son waifus y funcionan principalmente como **soportes** del Ancestro Principal.
+
+Estas waifus no necesitan haber sido grandes héroes. La importancia necesaria para manifestarse no se mide únicamente por fama mundial: puede existir suficiente Relato, Vestigio y Recuerdo Vivo alrededor de una vida aparentemente humilde.
+
+Las Vidas Pasadas/Ecos pueden:
+- aparecer físicamente detrás o alrededor de Hércules;
+- aportar pasivas;
+- ser invocadas como apoyo;
+- prestar habilidades mediante Resonancia/Inserción;
+- combinarse con cartas de Acción o de Ataque para potenciar al Ancestro Principal.
+
+La jerarquía buscada es:
+**Ancestro Principal = protagonista/DPS**
+**Vidas Pasadas/Ecos = waifus de apoyo**
+
+La progresión de fantasía global queda:
+**“Dirijo a mi waifu” → “aprendo a combinarla con otras vidas” → “me sincronizo con mi waifu”.**
 
 ## Hércules — personaje prototipo
 Hércules es una mujer en esta interpretación y será el primer personaje utilizado para validar el sistema.
