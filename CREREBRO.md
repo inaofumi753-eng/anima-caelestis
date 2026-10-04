@@ -158,6 +158,44 @@ Grow debe poder modificar este kit: una habilidad puede ganar una nueva propieda
 2. Guardiana Celestial — DPS resistente/contraataque/protección activa sin convertirse en tanque puro.
 3. Hércules Ascendida — DPS espiritual/divina con técnicas de Divine Soul.
 
+
+## Protagonista y apertura de la historia — diseño maestro provisional
+La campaña principal será **lineal en su historia central**, con elecciones y rutas secundarias que pueden cambiar relaciones, escenas y finales personales sin romper la continuidad principal. Esto permite contar una trama clara y, al mismo tiempo, ofrecer sensación de elección.
+
+El protagonista será un **protagonista silencioso/escasamente verbalizado**, con opción de elegir presentación masculina o femenina. Su personalidad se expresa principalmente mediante elecciones, acciones y reacciones del jugador.
+
+### Amiga de la infancia y primer vínculo
+La protagonista/o protagonista tiene una amiga de la infancia que también recibe el contacto con un Ancestro. Ella manifiesta a **Nightingale**, reinterpretada como waifu y especializada en apoyo/sanación.
+
+La elección de Nightingale no es casual: la amiga siempre ha tenido una personalidad protectora y cuidadora, por lo que tanto ella como el jugador perciben la manifestación como algo que encaja con quien es.
+
+La amiga funciona como:
+- primer vínculo emocional estable del protagonista;
+- primera demostración de que otros Invocadores existen;
+- introducción natural a una waifu de soporte;
+- puente para explicar que no todos los Ancestros son combatientes principales.
+
+### Primera transferencia pacífica de Soul
+Antes de que el juego presente el conflicto de forma violenta, la historia muestra una **transferencia voluntaria y pacífica de Soul** entre aliados.
+
+La escena debe establecer que una persona puede ofrecer parte de su energía/alma conscientemente para ayudar a otra, sin necesidad de derrota ni muerte. El objetivo narrativo es enseñar desde temprano que el sistema de almas tiene una dimensión humana y cooperativa.
+
+La primera transferencia puede involucrar al protagonista y su amiga/Nightingale y sirve como tutorial narrativo del principio:
+**“El alma también puede compartirse por voluntad, confianza y protección.”**
+
+La cantidad, coste y reglas exactas de transferencia se definirán después en el sistema de economía espiritual; esta escena no fija todavía un porcentaje.
+
+### Función narrativa
+Esta apertura debe presentar de forma orgánica:
+1. protagonista;
+2. teléfono/contacto;
+3. primera manifestación;
+4. amiga de la infancia;
+5. Nightingale como primer soporte;
+6. existencia de Soul;
+7. transferencia voluntaria;
+8. posterior aparición del conflicto y de los duelos.
+
 ## Lore central
 Las personas reciben en su teléfono un mensaje similar a:
 “¿Quiere saber la verdad del mundo y obtener el verdadero poder?”
