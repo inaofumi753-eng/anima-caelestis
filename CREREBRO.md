@@ -86,6 +86,17 @@ Esto convierte Grow en una decisión estratégica de tempo:
 
 La regla exacta de qué fases permiten Grow, sus costes de Soul y si existen excepciones queda pendiente de balance, pero el principio de **“Grow cuesta Soul + sacrifica una oportunidad del turno”** es una decisión de diseño.
 
+
+### Influencia estructural de WIXOSS — Parte 1 y Parte 2
+La inspiración de WIXOSS se divide conceptualmente en dos grandes etapas de Anima Caelestis. No se copiarán personajes, trama, terminología ni reglas de WIXOSS; se toma la **fantasía que transmitió su anime** como referencia de diseño.
+
+**Parte 1 — El duelo de cartas:** el jugador es un Invocador que establece un vínculo con su Ancestro/waifu principal, dirige un duelo mediante cartas, utiliza Vidas Pasadas/Ecos de apoyo y hace crecer a su waifu mediante Grow hasta alcanzar rutas Peak. El objetivo es conseguir la sensación de “estoy viendo a mi propia waifu librar un duelo de anime y yo estoy dirigiendo sus acciones”.
+
+**Parte 2 — Union:** después de dominar el vínculo a distancia, el jugador puede entrar en la relación de combate de forma directa mediante las formas Humana, Mítica y Sincronizada. La Parte 2 debe sentirse como una evolución natural del concepto de la Parte 1, no como un juego distinto.
+
+Estas dos partes definen una progresión de fantasía:
+**“Dirijo a mi waifu” → “me sincronizo con mi waifu”.**
+
 ## Hércules — personaje prototipo
 Hércules es una mujer en esta interpretación y será el primer personaje utilizado para validar el sistema.
 
