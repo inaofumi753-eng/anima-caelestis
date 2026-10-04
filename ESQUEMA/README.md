@@ -15,7 +15,7 @@ Juego móvil anime 2.5D de:
 ## 2. Fantasía de manifestación
 Escena cinematográfica: el Invocador mira su teléfono, una carta espiritual formada por Soul emerge de su pecho, la toma y la lanza; la carta se transforma en el Ancestro sobre el campo. El lenguaje visual establece desde el inicio que el jugador transmite su propia conexión espiritual al personaje.
 
-## 3. Fantasía de combate
+## 4. Fantasía de combate
 El foco visual del juego es un **duelo anime cercano y majestuoso entre waifus**, no un idle visto desde lejos.
 
 La presentación ideal combina:
@@ -29,7 +29,7 @@ La presentación ideal combina:
 
 La perspectiva puede mostrar al personaje del jugador desde la espalda/tres cuartos para dar sensación de “yo estoy ahí”, sin exigir first-person literal.
 
-## 4. Jugador
+## 5. Jugador
 Invocador → vínculo con Ancestros → sincronización → participación directa en temporadas posteriores.
 
 ## 5. Estructura de cartas
@@ -54,7 +54,7 @@ El combate es por turnos con dos fases por turno:
 Grow consume Soul y ocupa/sacrifica una de las dos fases del turno. El jugador debe decidir entre evolucionar o utilizar la acción normal de esa fase. El coste exacto y posibles excepciones se balancearán después.
 
 
-## 7. Arquitectura provisional de cartas
+## 8. Arquitectura provisional de cartas
 El combate usa dos familias tácticas principales:
 - **Cartas de Acción:** inmediata, preparada/cargada, de campo, defensa y buff.
 - **Cartas de Ataque:** órdenes ofensivas que desencadenan ataques visibles del Ancestro.
@@ -75,7 +75,7 @@ El Ancestro Principal posee acciones propias además de las cartas. Para Hércul
 
 Las cartas deben complementar estas acciones, no reemplazarlas. Grow podrá transformar/mejorar las habilidades propias.
 
-## 8. Combate
+## 9. Combate
 Pendiente de formalización detallada:
 - perspectiva/cámara;
 - turnos;
@@ -91,28 +91,28 @@ Pendiente de formalización detallada:
 - incapacitación;
 - victoria.
 
-## 9. Evolución
+## 10. Evolución
 Grow → rutas → Divine Soul → Peak.
 
-## 10. Roles
+## 11. Roles
 DPS principal + compañeros especializados.
 
-## 11. Colección
+## 12. Colección
 Ancestros, variantes, cartas, artefactos, rutas de evolución y contenido cosmético.
 
-## 12. Temporada 1
+## 13. Temporada 1
 Invocación, combate, Grow, Peak, Cronos, corrupción y verdad del ciclo.
 
-## 13. Temporada 2
+## 14. Temporada 2
 Union/Sincronización jugador-Ancestro.
 
-## 14. Escalada
+## 15. Escalada
 Mundo humano → plano espiritual/divino → realidades → entidades extradimensionales.
 
-## 15. Arte
+## 16. Arte
 2D anime + rigging + profundidad 3D + cámara cercana + iluminación + partículas + VFX + escenarios 3D selectivos.
 
-## 16. Primer prototipo
+## 17. Primer prototipo
 Hércules gyaru → duelo cercano → cartas → HP/Energy/Soul → Grow → Hércules fuertota.
 
 El prototipo debe poder demostrar la fantasía de “mi waifu está peleando contra otra waifu” antes de expandirse.
