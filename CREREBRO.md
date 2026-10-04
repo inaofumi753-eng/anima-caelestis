@@ -112,6 +112,23 @@ La jerarquía buscada es:
 La progresión de fantasía global queda:
 **“Dirijo a mi waifu” → “aprendo a combinarla con otras vidas” → “me sincronizo con mi waifu”.**
 
+### El jugador elige a su Ancestro Principal
+Hércules es el **personaje prototipo y rostro inicial del desarrollo**, pero no debe convertirse en la protagonista obligatoria de todos los jugadores.
+
+En la experiencia final, cada jugador puede elegir qué Ancestro/waifu quiere convertir en su **Ancestro Principal**. Hércules es sólo una de muchas posibilidades.
+
+Ejemplos de futuros Ancestros Principales: Hércules, Leonardo da Vinci, Medusa, Rey Arturo y muchas otras reinterpretaciones femeninas de figuras históricas, legendarias o míticas. Todas deben conservar la identidad general de Anima Caelestis como waifus, aunque sus personalidades, estilos, cuerpos y formas de combate sean distintos.
+
+La expresión **Ancestro Principal** significa el personaje central del jugador en un combate/equipo concreto, no “la heroína única del universo”.
+
+La arquitectura debe permitir que:
+- el jugador empiece con una waifu elegida o con una selección definida por la historia inicial;
+- cada Ancestro Principal conserve su identidad de rol y kit;
+- los Ecos/Vidas Pasadas funcionen como apoyos alrededor de cualquiera de ellas;
+- Grow, Peak y Divine Soul sean sistemas reutilizables con rutas específicas por personaje.
+
+Hércules seguirá siendo nuestro primer banco de pruebas para balance, cámara, cartas, Grow y 2.5D.
+
 ## Hércules — personaje prototipo
 Hércules es una mujer en esta interpretación y será el primer personaje utilizado para validar el sistema.
 
