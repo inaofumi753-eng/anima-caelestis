@@ -12,7 +12,10 @@ Juego móvil anime 2.5D de:
 - lore emocional;
 - escalada cósmica.
 
-## 2. Fantasía de combate
+## 2. Fantasía de manifestación
+Escena cinematográfica: el Invocador mira su teléfono, una carta espiritual formada por Soul emerge de su pecho, la toma y la lanza; la carta se transforma en el Ancestro sobre el campo. El lenguaje visual establece desde el inicio que el jugador transmite su propia conexión espiritual al personaje.
+
+## 3. Fantasía de combate
 El foco visual del juego es un **duelo anime cercano y majestuoso entre waifus**, no un idle visto desde lejos.
 
 La presentación ideal combina:
@@ -26,16 +29,16 @@ La presentación ideal combina:
 
 La perspectiva puede mostrar al personaje del jugador desde la espalda/tres cuartos para dar sensación de “yo estoy ahí”, sin exigir first-person literal.
 
-## 3. Jugador
+## 4. Jugador
 Invocador → vínculo con Ancestros → sincronización → participación directa en temporadas posteriores.
 
-## 4. Manifestación
+## 5. Manifestación
 Relato + Vestigio + Recuerdo Vivo.
 
-## 5. Recursos
+## 6. Recursos
 HP / Energy / Soul.
 
-## 6. Combate
+## 7. Combate
 Pendiente de formalización detallada:
 - perspectiva/cámara;
 - turnos;
@@ -51,28 +54,28 @@ Pendiente de formalización detallada:
 - incapacitación;
 - victoria.
 
-## 7. Evolución
+## 8. Evolución
 Grow → rutas → Divine Soul → Peak.
 
-## 8. Roles
+## 9. Roles
 DPS principal + compañeros especializados.
 
-## 9. Colección
+## 10. Colección
 Ancestros, variantes, cartas, artefactos, rutas de evolución y contenido cosmético.
 
-## 10. Temporada 1
+## 11. Temporada 1
 Invocación, combate, Grow, Peak, Cronos, corrupción y verdad del ciclo.
 
-## 11. Temporada 2
+## 12. Temporada 2
 Union/Sincronización jugador-Ancestro.
 
-## 12. Escalada
+## 13. Escalada
 Mundo humano → plano espiritual/divino → realidades → entidades extradimensionales.
 
-## 13. Arte
+## 14. Arte
 2D anime + rigging + profundidad 3D + cámara cercana + iluminación + partículas + VFX + escenarios 3D selectivos.
 
-## 14. Primer prototipo
+## 15. Primer prototipo
 Hércules gyaru → duelo cercano → cartas → HP/Energy/Soul → Grow → Hércules fuertota.
 
 El prototipo debe poder demostrar la fantasía de “mi waifu está peleando contra otra waifu” antes de expandirse.
