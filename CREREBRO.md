@@ -69,6 +69,23 @@ Esto permite que muchas waifus sean coleccionables y visualmente presentes sin q
 
 Los nombres **Vida Pasada**, **Eco**, **Resonancia** e **Inserción** son etiquetas de diseño provisionales y pueden cambiar al formalizar el combate.
 
+### Estructura base del turno — decisión de combate
+El combate es **por turnos** y cada turno del jugador tiene dos fases consecutivas:
+
+1. **Fase de Técnica:** el jugador puede utilizar cartas de defensa, buff y otras técnicas de preparación/soporte que se definan posteriormente.
+2. **Fase de Ataque:** el jugador ejecuta los ataques y acciones ofensivas disponibles.
+
+La división debe ser visible y comprensible: primero se prepara la jugada y después se ejecuta el enfrentamiento.
+
+### Grow como sacrificio de tempo
+Grow utiliza **Soul** como combustible espiritual, pero no debe ser gratuito dentro del turno. La interpretación actual es que para realizar Grow el jugador debe **sacrificar una de las dos fases del turno**: el Grow ocupa esa oportunidad en vez de realizar la acción normal de esa fase.
+
+Esto convierte Grow en una decisión estratégica de tempo:
+- Grow durante la Fase de Técnica significa renunciar a la preparación/soporte de esa fase para evolucionar.
+- Grow durante la Fase de Ataque significa renunciar al ataque de esa fase para evolucionar.
+
+La regla exacta de qué fases permiten Grow, sus costes de Soul y si existen excepciones queda pendiente de balance, pero el principio de **“Grow cuesta Soul + sacrifica una oportunidad del turno”** es una decisión de diseño.
+
 ## Hércules — personaje prototipo
 Hércules es una mujer en esta interpretación y será el primer personaje utilizado para validar el sistema.
 
