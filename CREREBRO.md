@@ -260,3 +260,38 @@ La manifestación ideal debe tener una secuencia memorable: el Invocador mira su
 
 ## Regla anti-desvío
 Si una propuesta contradice la identidad waifu, la fantasía de duelo cercano, el sistema de DPS principal, la separación HP/Energy/Soul, Grow/Peak o la estructura del lore, el bot debe detenerse y pedir revisión en lugar de inventar una solución incompatible.
+
+
+## Arquitectura provisional de cartas de combate
+El mazo de batalla debe sentirse como una extensión física del teléfono y del vínculo con el Ancestro. El jugador roba **1 carta por turno** y puede utilizar las cartas que tenga disponibles cuando la fase y las condiciones de la carta lo permitan; no existe una regla general que obligue a conservar cartas para turnos posteriores.
+
+### 1. Cartas de Acción
+Representan efectos no ofensivos directos y funcionan como el equivalente conceptual de cartas mágicas/trampa/campo de un TCG, pero con reglas propias.
+
+Pueden tener comportamientos distintos:
+- **Acción inmediata:** se activa al jugarla y resuelve su efecto.
+- **Acción preparada/cargada:** se coloca o inicia una preparación y se dispara posteriormente bajo una condición definida.
+- **Acción de campo:** altera temporalmente las condiciones del campo/duelo.
+- **Defensa/Buff:** protege o potencia al Ancestro Principal o a sus Ecos.
+
+### 2. Cartas de Ataque
+Representan órdenes ofensivas. Al activarlas, la carta aparece físicamente desde el teléfono/mano del Invocador, se libera o rompe y desencadena la acción de ataque de la waifu.
+
+La animación debe hacer visible la relación:
+**teléfono → carta → mano → activación → efecto/ataque en el campo**.
+
+### Uso físico de las cartas
+Las cartas no deben desaparecer instantáneamente de la interfaz. La presentación ideal muestra que:
+1. la carta aparece/sale del teléfono;
+2. el Invocador la toma;
+3. la enfoca, rompe o libera según el tipo;
+4. el efecto se manifiesta en el campo;
+5. la carta se consume, queda en preparación o vuelve a una zona definida por las reglas.
+
+La forma exacta de “romper”, “liberar” o dejar una carta preparada es una decisión visual y mecánica que debe definirse por tipo de carta.
+
+### Relación con las Vidas Pasadas/Ecos
+Las **Vidas Pasadas/Ecos** siguen siendo personajes de soporte situados detrás/alrededor del Ancestro Principal. Sus cartas/personaje y sus cartas de Acción no tienen por qué ser la misma categoría: un Eco puede aportar pasivas y habilidades propias, mientras que las cartas de combate son las órdenes que el Invocador utiliza durante las fases del turno.
+
+### Mano y ritmo
+El jugador recibe una carta nueva por turno. Puede gastar varias cartas durante su turno si tiene suficientes y las reglas de cada carta lo permiten. El límite de cartas por fase todavía no está cerrado y se determinará durante el prototipo para evitar que el juego se vuelva spam o, al contrario, demasiado restrictivo.
