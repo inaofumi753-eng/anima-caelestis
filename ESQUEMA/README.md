@@ -53,6 +53,18 @@ El combate es por turnos con dos fases por turno:
 ## Grow y sacrificio de fase
 Grow consume Soul y ocupa/sacrifica una de las dos fases del turno. El jugador debe decidir entre evolucionar o utilizar la acción normal de esa fase. El coste exacto y posibles excepciones se balancearán después.
 
+
+## 7. Arquitectura provisional de cartas
+El combate usa dos familias tácticas principales:
+- **Cartas de Acción:** inmediata, preparada/cargada, de campo, defensa y buff.
+- **Cartas de Ataque:** órdenes ofensivas que desencadenan ataques visibles del Ancestro.
+
+El jugador roba **1 carta por turno** y puede utilizar varias de las cartas disponibles si las reglas de fase y costes lo permiten. La mano no impone por sí sola un “una carta por turno”; el balance pendiente definirá límites específicos.
+
+Las cartas deben tener presencia física en pantalla: aparecen desde el teléfono/mano del Invocador, se enfocan/rompen/liberan y producen su efecto en el campo. La animación debe comunicar **teléfono → carta → mano → activación → acción**.
+
+Las Vidas Pasadas/Ecos siguen siendo personajes de soporte detrás del Ancestro Principal y no se consideran automáticamente una tercera familia de cartas tácticas.
+
 ## 8. Combate
 Pendiente de formalización detallada:
 - perspectiva/cámara;
