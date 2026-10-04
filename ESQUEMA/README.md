@@ -180,3 +180,16 @@ El sistema de vínculo contempla:
 - finales diferentes.
 
 Los Ancestros principales pueden tener rutas románticas/afectivas cuando corresponda. Las rutas se deciden por combinación de afinidad y elecciones importantes, no solamente por un contador. El vínculo no debe ser obligatorio para disfrutar el combate y no debe convertirse en una mecánica pay-to-win.
+
+
+## 19. Estructura narrativa principal
+La campaña central es **lineal**. Las decisiones del jugador pueden abrir/cerrar escenas secundarias, relaciones, recuerdos y rutas personales, pero la columna vertebral de la historia mantiene una continuidad compartida.
+
+El protagonista es silencioso/escasamente verbalizado y puede tener presentación masculina o femenina. Las decisiones del jugador expresan su personalidad.
+
+La primera compañera importante es una **amiga de la infancia** que también despierta un Ancestro: **Nightingale**, una waifu de soporte/sanación. La elección conecta con el carácter cuidador de la amiga y sirve como primera demostración de que existen distintos tipos de Ancestros y roles.
+
+### Primera transferencia pacífica
+Antes de los duelos violentos, la historia enseña una transferencia voluntaria de Soul entre aliados. La acción muestra que el alma no existe solamente para combatir o robar: también puede compartirse mediante confianza y protección.
+
+La secuencia funciona como tutorial narrativo de Soul y no fija todavía un porcentaje o coste definitivo.
