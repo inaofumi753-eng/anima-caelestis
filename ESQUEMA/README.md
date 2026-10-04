@@ -103,8 +103,24 @@ Ancestros, variantes, cartas, artefactos, rutas de evolución y contenido cosmé
 ## 13. Temporada 1
 Invocación, combate, Grow, Peak, Cronos, corrupción y verdad del ciclo.
 
-## 14. Temporada 2
-Union/Sincronización jugador-Ancestro.
+## 14. Union como mecánica temprana y evolución posterior
+Union se inspira en la fantasía del desenlace de la segunda temporada de WIXOSS, pero en Anima Caelestis está disponible desde una etapa temprana y no se reserva al final.
+
+El sistema permite convocar otras **Vidas Pasadas/Ecos** —obreras, trabajadoras, campesinas, artesanas, comerciantes, cuidadoras y otras personas comunes— siempre que exista suficiente fuerza espiritual para manifestarlas. Todas son waifus de apoyo.
+
+Estas Vidas Pasadas:
+- se sitúan detrás/alrededor del Ancestro Principal;
+- proporcionan pasivas y habilidades de soporte;
+- pueden entrar en Resonancia/Inserción;
+- amplían el deckbuilding y las combinaciones del Ancestro.
+
+El Ancestro Principal sigue siendo la figura DPS dominante.
+
+Más adelante, Union evoluciona hacia la sincronización directa jugador-Ancestro:
+**Forma Humana → Forma Mítica → Forma Sincronizada**.
+
+La progresión de fantasía es:
+**“Dirijo a mi waifu” → “combino vidas con ella” → “me sincronizo con ella”.**
 
 ## 15. Escalada
 Mundo humano → plano espiritual/divino → realidades → entidades extradimensionales.
