@@ -4,7 +4,7 @@
 Este archivo es la memoria maestra del proyecto. Contiene las decisiones conceptuales que NO deben perderse y sirve como referencia para cualquier bot, agente o colaborador.
 
 ## Identidad del juego
-Anima Caelestis es un juego móvil de colección, RPG y cartas con estética anime **2.5D**, inspirado emocionalmente en la sensación de WIXOSS —colección de waifus, evolución, vínculo emocional y combate mediante cartas— pero con sistema, mundo, personajes y terminología propios.
+Anima Caelestis es un juego móvil de colección, RPG y cartas con estética anime **2.5D**, inspirado emocionalmente en la fantasía de un anime de TCG como WIXOSS —waifus protagonistas, evolución, vínculo emocional, duelos espectaculares y cartas que desencadenan acciones— pero con sistema, mundo, personajes y terminología propios.
 
 ### Regla de identidad visual
 El juego es, ante todo, un juego de **WAIFUS**:
@@ -15,6 +15,27 @@ El juego es, ante todo, un juego de **WAIFUS**:
 - las evoluciones deben aumentar espectacularidad, belleza y poder.
 
 La mitología y el horror cósmico son el contexto. **No deben borrar la identidad waifu del juego.**
+
+### Fantasía de combate — decisión maestra
+La referencia principal NO es un RPG idle con unidades pequeñas vistas desde lejos.
+
+La fantasía que debe vender el combate es:
+**“Estoy viendo a mi waifu luchar contra otra waifu de forma majestuosa.”**
+
+El jugador debe sentir que está presente en el enfrentamiento:
+- personaje protagonista grande y claramente visible;
+- adversaria igualmente importante;
+- cámara cercana/dinámica, preferentemente detrás o a corta distancia del personaje del jugador, con perspectiva cinematográfica;
+- ataques y habilidades mostrados como acciones de combate reales;
+- cartas usadas como parte visible de la acción;
+- animaciones de impacto, acercamientos de cámara, partículas, iluminación y efectos;
+- sensación de duelo de anime/T​​CG, no de simulación idle.
+
+La cámara puede utilizar una perspectiva tipo tercera persona/over-the-shoulder, con el personaje visto de espalda o tres cuartos durante determinadas acciones, y cambiar a planos cinematográficos durante ataques, habilidades y Grow. No es obligatorio que el juego sea literalmente first-person.
+
+**Nunca convertir el combate principal en una vista lejana con personajes diminutos.**
+
+Las cartas deben sentirse como el mecanismo que provoca y dirige las acciones de las waifus, no como simples botones de interfaz.
 
 ## Hércules — personaje prototipo
 Hércules es una mujer en esta interpretación y será el primer personaje utilizado para validar el sistema.
@@ -81,6 +102,8 @@ Ejemplo:
 Hércules I → Hércules II → Hércules III → Hércules IV → Peak.
 
 La Peak representa el máximo estado que esa alma puede alcanzar siguiendo una ruta concreta.
+
+Grow debe ser tanto mecánica como espectáculo visual. En combate, una activación importante de Grow debe sentirse como una evolución real de la waifu, no como una pantalla de estadísticas.
 
 ## Divine Soul
 La cantidad y naturaleza de Divine Soul obtenida puede abrir distintas rutas de Grow/Peak. Un mismo Ancestro puede tener finales diferentes.
@@ -160,23 +183,28 @@ Orden recomendado:
 1. Loop de combate.
 2. Hércules prototipo.
 3. Cartas/recursos.
-4. Grow.
-5. Peak.
-6. Arte/animación.
-7. Sistema de colección.
-8. Más Ancestros.
-9. Lore y temporadas a escala completa.
+4. Cámara y presentación de combate 2.5D.
+5. Grow.
+6. Peak.
+7. Arte/animación.
+8. Sistema de colección.
+9. Más Ancestros.
+10. Lore y temporadas a escala completa.
 
 ## Estilo 2.5D
 Objetivo:
 - personajes 2D anime de alta calidad;
 - ilustraciones y sprites principales;
 - rigging/animación 2D;
-- cámaras, partículas, luces, sombras y efectos con sensación 3D;
+- cámara cercana y dinámica;
+- escenarios con profundidad;
+- partículas, luces, sombras y efectos con sensación 3D;
 - escenarios y elementos 3D cuando aporten profundidad;
 - evitar 3D completo de personajes si perjudica el estilo anime.
 
-La referencia emocional es el impacto de un TCG anime moderno, no copiar WIXOSS.
+El objetivo visual es una **batalla anime de cartas cinematográfica**, no un idle lejano.
+
+La referencia emocional es el espectáculo de un TCG anime moderno, no copiar WIXOSS.
 
 ## Regla anti-desvío
-Si una propuesta contradice la identidad waifu, el sistema de DPS principal, la separación HP/Energy/Soul, Grow/Peak o la estructura del lore, el bot debe detenerse y pedir revisión en lugar de inventar una solución incompatible.
+Si una propuesta contradice la identidad waifu, la fantasía de duelo cercano, el sistema de DPS principal, la separación HP/Energy/Soul, Grow/Peak o la estructura del lore, el bot debe detenerse y pedir revisión en lugar de inventar una solución incompatible.
