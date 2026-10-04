@@ -65,6 +65,16 @@ Las cartas deben tener presencia física en pantalla: aparecen desde el teléfon
 
 Las Vidas Pasadas/Ecos siguen siendo personajes de soporte detrás del Ancestro Principal y no se consideran automáticamente una tercera familia de cartas tácticas.
 
+
+## Kit innato del Ancestro Principal
+El Ancestro Principal posee acciones propias además de las cartas. Para Hércules, el prototipo contempla:
+- Golpe Normal.
+- Golpe Especial.
+- Habilidad Propia/Ataque Icónico (nombre provisional: Golpe de Coloso, Ataque Poderoso o Aniquilador de Leones).
+- Grito de Guerra, buff ofensivo propio.
+
+Las cartas deben complementar estas acciones, no reemplazarlas. Grow podrá transformar/mejorar las habilidades propias.
+
 ## 8. Combate
 Pendiente de formalización detallada:
 - perspectiva/cámara;
