@@ -249,6 +249,43 @@ En una futura temporada:
 Frase conceptual:
 “Has soportado tanto dolor y sufrimiento desde pequeña… para mí, tú eres una verdadera heroína.”
 
+
+## Historia interactiva y sistema de vínculo
+El modo historia debe funcionar principalmente como una **visual novel/aventura narrativa interactiva** en la que el jugador decide qué hacer y dónde pasar su tiempo, en lugar de recorrer libremente un mundo 3D.
+
+El jugador puede elegir actividades y lugares como:
+- cafetería;
+- plaza;
+- pasear por la ciudad;
+- visitar lugares relacionados con Relatos y Vestigios;
+- encuentros especiales con Ancestros/Ecos;
+- otras localizaciones que se desbloqueen por la historia.
+
+Las elecciones producen consecuencias mediante **variables, flags y afinidad**. El sistema debe permitir:
+- aumentar o disminuir afinidad;
+- desbloquear conversaciones y recuerdos;
+- descubrir información del personaje;
+- abrir o cerrar escenas;
+- cambiar relaciones;
+- activar rutas narrativas y finales diferentes.
+
+### Romance y rutas
+Los Ancestros principales pueden disponer de una ruta de vínculo/romance cuando encaje con su personaje y su historia. La estructura debe combinar afinidad con decisiones significativas: no todo debe depender de acumular puntos.
+
+La meta es lograr el sentimiento de una visual novel romántica: conocer a la waifu, compartir momentos cotidianos, descubrir su pasado, tomar decisiones importantes y finalmente entrar en una ruta particular.
+
+La ruta puede afectar:
+- escenas de historia;
+- diálogos;
+- recuerdos;
+- habilidades o pequeñas bonificaciones de vínculo, sin convertir el romance en una fuente obligatoria de poder competitivo;
+- variantes cosméticas/expresivas;
+- escenas y finales.
+
+El romance no debe ser obligatorio para disfrutar el combate y la colección. Tampoco debe depender de la rareza o del dinero: una waifu debe poder tener una relación narrativa satisfactoria independientemente de cuánto haya gastado el jugador.
+
+La estructura puede inspirarse en la sensación de una visual novel por rutas, pero **no copiar personajes, escenas, reglas ni rutas de Fate/stay night**.
+
 ## Temporadas
 ### Temporada 1
 Invocadores, Ancestros, Soul, HP, Energy, Grow, Peak, Divine Soul, artefactos y verdad del ciclo.
