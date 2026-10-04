@@ -46,6 +46,29 @@ La cámara puede utilizar una perspectiva tipo tercera persona/over-the-shoulder
 
 Las cartas deben sentirse como el mecanismo que provoca y dirige las acciones de las waifus, no como simples botones de interfaz.
 
+### Estructura provisional de cartas: Ancestro Principal + Vidas Pasadas
+El sistema de cartas puede dividirse, como concepto central, en dos familias:
+
+1. **Carta de Ancestro Principal:** representa a la waifu protagonista que está realmente combatiendo. En el prototipo es Hércules. Mantiene el rol DPS y es la figura dominante de la cámara y del duelo.
+2. **Cartas de Vidas Pasadas/Ecos:** representan otros Ancestros/waifus secundarios que tienen menor peso narrativo individual. Se colocan como compañeras detrás o alrededor del Ancestro Principal en el campo.
+
+Las Vidas Pasadas no necesitan reemplazar a la protagonista. Su función es apoyarla. Una Vida Pasada puede tener pasivas y una o más técnicas de soporte.
+
+### Mecánica provisional de Inserción/Resonancia
+Para activar una habilidad importante de una Vida Pasada, el jugador puede **insertar su carta espiritualmente en el vínculo del Ancestro Principal**. Esto no significa posesión: el Eco presta temporalmente una técnica, atributo o energía a la protagonista.
+
+Presentación ideal:
+- la carta de la Vida Pasada se levanta desde el campo;
+- se dirige hacia Hércules o hacia su núcleo de Soul;
+- la carta entra en su campo espiritual;
+- la waifu de apoyo puede aparecer como una proyección detrás/de lado de Hércules;
+- ejecuta su habilidad sobre Hércules o sobre el enemigo;
+- la carta queda en estado activo/en resonancia, en espera de la siguiente condición definida por el sistema.
+
+Esto permite que muchas waifus sean coleccionables y visualmente presentes sin quitar a Hércules el papel protagonista.
+
+Los nombres **Vida Pasada**, **Eco**, **Resonancia** e **Inserción** son etiquetas de diseño provisionales y pueden cambiar al formalizar el combate.
+
 ## Hércules — personaje prototipo
 Hércules es una mujer en esta interpretación y será el primer personaje utilizado para validar el sistema.
 
