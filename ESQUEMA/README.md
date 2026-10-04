@@ -32,13 +32,20 @@ La perspectiva puede mostrar al personaje del jugador desde la espalda/tres cuar
 ## 4. Jugador
 Invocador → vínculo con Ancestros → sincronización → participación directa en temporadas posteriores.
 
-## 5. Manifestación
+## 5. Estructura de cartas
+La organización conceptual inicial contempla dos familias principales:
+- Ancestro Principal: la waifu que ocupa el centro del duelo y conserva el rol DPS.
+- Vidas Pasadas/Ecos: waifus secundarias de apoyo colocadas detrás/alrededor de la protagonista.
+
+Las Vidas Pasadas pueden ser **insertadas en la resonancia espiritual** del Ancestro Principal mediante una acción de carta para activar una habilidad de soporte. La representación visual debe mostrar la conexión entre ambas y mantener a la protagonista como figura dominante.
+
+## 6. Manifestación
 Relato + Vestigio + Recuerdo Vivo.
 
-## 6. Recursos
+## 7. Recursos
 HP / Energy / Soul.
 
-## 7. Combate
+## 8. Combate
 Pendiente de formalización detallada:
 - perspectiva/cámara;
 - turnos;
@@ -54,28 +61,28 @@ Pendiente de formalización detallada:
 - incapacitación;
 - victoria.
 
-## 8. Evolución
+## 9. Evolución
 Grow → rutas → Divine Soul → Peak.
 
-## 9. Roles
+## 10. Roles
 DPS principal + compañeros especializados.
 
-## 10. Colección
+## 11. Colección
 Ancestros, variantes, cartas, artefactos, rutas de evolución y contenido cosmético.
 
-## 11. Temporada 1
+## 12. Temporada 1
 Invocación, combate, Grow, Peak, Cronos, corrupción y verdad del ciclo.
 
-## 12. Temporada 2
+## 13. Temporada 2
 Union/Sincronización jugador-Ancestro.
 
-## 13. Escalada
+## 14. Escalada
 Mundo humano → plano espiritual/divino → realidades → entidades extradimensionales.
 
-## 14. Arte
+## 15. Arte
 2D anime + rigging + profundidad 3D + cámara cercana + iluminación + partículas + VFX + escenarios 3D selectivos.
 
-## 15. Primer prototipo
+## 16. Primer prototipo
 Hércules gyaru → duelo cercano → cartas → HP/Energy/Soul → Grow → Hércules fuertota.
 
 El prototipo debe poder demostrar la fantasía de “mi waifu está peleando contra otra waifu” antes de expandirse.
